@@ -1,1 +1,1 @@
-# HTML-CSS-table02
+Saw this design on https://preview.colorlib.com/theme/bootstrap/table-03/#, and i wrote the code from scratch to recreate the table
